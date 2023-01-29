@@ -1,0 +1,7 @@
+
+Scenario: Login com sucesso 
+
+    Given que eu esteja na tela de login 
+    When eu preencher username password válidos 
+    Then o sistema deve acessa a tela inicial. 
+    And vejo a tela com os produtos disponíveis para adicionar ao carrinho de compras.

@@ -1,0 +1,14 @@
+//User Stories
+
+    Eu como um usuário, quero poder acessar a página de produtos, inserindo um usuário e senha
+    para poder selecionar produtos e adiciona-los no carrinho de compras.
+
+//Critérios de Aceite
+
+    1. O usuário informa seu username e password
+
+    2. O sistema não valida as informações
+
+    3. Exibir mensagem de erro se nome de usuário ou senha estiverem incorretos
+
+    4. O sistema  permanece na página de login. 

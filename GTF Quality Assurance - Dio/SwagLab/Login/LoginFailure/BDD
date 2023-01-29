@@ -1,0 +1,6 @@
+
+Scenario: Login com falha - username incorreto
+
+    Given que eu esteja na tela de login
+    When eu preencher username inválido e clico em "login"
+    Then o sistema retorna a mensagem "Epic sadface: Username and password do not match any user in this service".

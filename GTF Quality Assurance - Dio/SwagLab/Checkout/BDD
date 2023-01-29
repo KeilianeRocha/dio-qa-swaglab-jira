@@ -1,0 +1,11 @@
+Scenario:Finalizar compra
+
+    Given que eu esteja na tela de produtos 
+    When eu navegar para a página do carrinho
+    And verificar se todos os itens estão adicionados
+    And clicar no botão "checkout"
+    And  preencher os dados solicitados
+    And clicar em "continue"
+    And navegar para a página checkout
+    And Eclicar em "finish"
+    Then o sistema deve retornar a mensagem "thank you for your order".

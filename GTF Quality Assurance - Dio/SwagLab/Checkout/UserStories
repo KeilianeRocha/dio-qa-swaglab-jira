@@ -1,0 +1,28 @@
+//User Stories
+
+    Como um usuário, eu quero poder finalizar minha compra preenchendo as informações de envio para
+    completar minha compra.
+
+//Critérios de Aceite
+
+    1. O usuário está logado com usuário e password corretos
+
+    2. O sistema aceita a solicitação de adicionar um produto ao carrinho clicando no botão “add to cart”
+
+    3. O usuário acessa a página “your cart” clicando no ícone carrinho no canto superior a direita da tela
+
+    4. O sistema exibe todos os itens no carrinho.
+
+    5. O usuário clica no botão “checkout”
+
+    6. O sistema retorna para a página “checkout: your information”
+
+    7. O usuário preenche os dados para envio e clica no botão “continue”
+
+    8. O sistema retorna para a página “ checkout: overview”
+
+    9. O usuário confere todas as informações fornecidas e clica no botão “finish”
+
+    10. O sistema retorna para a página “checkout: complete”
+
+    11. E exibe a mensagem “thank you for your orde” finalizando o pedido

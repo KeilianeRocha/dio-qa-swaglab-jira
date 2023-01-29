@@ -1,0 +1,13 @@
+//User Stories
+
+Eu como um usuário, quero poder acessar a página de produtos, inserindo um usuário e senha corretos
+
+para poder selecionar produtos e adiciona-los no carrinho de compras.
+
+//Critérios de Aceite
+
+1. O usuário informa corretamente seu username e password
+
+2. O sistema redireciona ele para a página principal
+
+3. O sistema exibe na página principal, todos os itens disponíveis para adicionar ao carrinho.

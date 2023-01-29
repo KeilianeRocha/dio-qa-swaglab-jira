@@ -1,0 +1,5 @@
+
+Scenario: Logout
+    Given que eu estou na tela de "checkout complete"
+    when eu clico no link no canto superior do lado esquerdo da tela "Logout"
+    Then eu sou redirecionado novamente para a página de login.

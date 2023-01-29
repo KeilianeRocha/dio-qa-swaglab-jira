@@ -1,0 +1,6 @@
+
+Scenario: Adicionar produto ao carrinho
+
+    Given que eu esteja na tela de produtos 
+    When eu clicar no botão "add to cart"
+    Then o sistema deve adicionar o produto no carrinho
