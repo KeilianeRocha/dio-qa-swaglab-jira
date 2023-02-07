@@ -5,6 +5,6 @@
 
 //Critérios de Aceite
  
-    1. O usuário está logado com usuário e password corretos
+    1. O usuário está logado com username e password corretos
 
     2. O sistema aceita a solicitação de adicionar um produto ao carrinho clicando no botão “add to cart”.
