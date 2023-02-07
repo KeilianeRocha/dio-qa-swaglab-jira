@@ -1,10 +1,11 @@
 //User Stories
 
-    Como um usuário, eu quero adicionar produtos ao meu carrinho de compras para 
-    que eu posssa finalizar minha compra.
+    Como um usuário, eu quero visualizar meus produtos dentro do carrinho de compras.
 
 //Critérios de Aceite
 
-    1. O usuário está logado com usuário e password corretos
+    1. O usuário estar logado com username e password corretos
 
-    2. O sistema aceita a solicitação de adicionar um produto ao carrinho clicando no botão “add to cart”.
+    2. O solicita visualizar os produtos no carrinho, clicando no botão “carrinho de compra”
+    
+    3. O sistema retorna a lista de produtos adicionados pelo usuário.
